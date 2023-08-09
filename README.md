@@ -9,7 +9,7 @@ Feito com a versão do node 18.17
 
 Feito com a versão do java 17
 
-Funcionalidades
+#Funcionalidades
 
 Serviço de Login
 Verifica as credenciais do usuário e fornece um token JWT para acesso.
@@ -29,7 +29,7 @@ Atualiza o nível de uma skill associada ao usuário.
 Serviço de Excluir Associação de Skill
 Remove a associação de uma skill para o usuário.
 
-Frontend (React)
+#Frontend (React)
 Tela de Login
 
 Campos para login e senha.
