@@ -8,6 +8,7 @@ Feito com a versão do node 18.17
 ## ProjetoBack
 
 Feito com a versão do java 17
+Alterar o application properties create
 
 ## Funcionalidades
 
